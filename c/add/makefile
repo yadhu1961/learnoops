@@ -11,6 +11,7 @@ OBJ=add.o main.o
 
 # This is where the actual linking of the program happens.
 add: $(OBJ)
-	$(CC) -o $@ $^
+	$(CC) $^
 
-
+clean:
+	rm -f *.o *.out
