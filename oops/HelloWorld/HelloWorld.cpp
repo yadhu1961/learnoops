@@ -1,3 +1,8 @@
+/*
+* Author: Yadhunandana R K
+  Email :yadhu.bmsce@gmail.com
+*/
+
 #include<iostream>
 #include<cstdlib>
 
